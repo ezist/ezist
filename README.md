@@ -2,7 +2,7 @@
 male, dev
 
 ## experience:
-- JavaScript: private discord bot
+- JavaScript: private discord bot & [verification bot](https://github.com/ezist/spacebot)
 - PHP: several projects with [typicalname](https://github.com/typicalname0) (spacemy, 4grounds, arcader)
 - HTML/CSS
 - Perl / shell scripting
