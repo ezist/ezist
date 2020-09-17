@@ -7,4 +7,4 @@ male, dev
 - HTML/CSS
 - Perl / shell scripting
 
-![stats](https://github-readme-stats.vercel.app/api?username=typicalname0&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=ezist&show_icons=true)
