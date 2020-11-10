@@ -2,9 +2,9 @@
 male, dev
 
 ## experience:
-- JavaScript: private discord bot & [verification bot](https://github.com/ezist/spacebot)
+- JavaScript: private discord bot, [verification bot](https://github.com/ezist/spacebot), contributed to several powercord plugins
 - PHP: several projects with [typicalname](https://github.com/typicalname0) (spacemy, 4grounds, arcader)
 - HTML/CSS
 - Perl / shell scripting
 
-![stats](https://github-readme-stats.vercel.app/api?username=ezist&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=ezist&show_icons=true&theme=gruvbox)
