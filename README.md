@@ -1,5 +1,5 @@
 # ezist :lemon:
-female, dev
+genderless dev
 
 ## experience:
 - JavaScript: private discord bot, [verification bot](https://github.com/ezist/spacebot), contributed to several powercord plugins and [made](https://github.com/ezist/showhiddenchannels) [two](https://github.com/ezist/quick-toggler)
